@@ -1,0 +1,5058 @@
+[
+  {
+    "start_ip": "2.56.141.0",
+    "end_ip": "2.56.143.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "2.56.147.0",
+    "end_ip": "2.56.147.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "2.192.226.0",
+    "end_ip": "2.192.226.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "5.42.205.0",
+    "end_ip": "5.42.205.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "5.59.181.0",
+    "end_ip": "5.59.181.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "5.133.103.56",
+    "end_ip": "5.133.103.56",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "8.29.231.126",
+    "end_ip": "8.29.231.126",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "23.230.153.0",
+    "end_ip": "23.230.153.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "23.230.155.0",
+    "end_ip": "23.230.155.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "23.230.157.0",
+    "end_ip": "23.230.157.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "23.230.162.0",
+    "end_ip": "23.230.162.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "23.230.165.0",
+    "end_ip": "23.230.165.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.224.134",
+    "end_ip": "31.25.224.134",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.139",
+    "end_ip": "31.25.225.139",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.200",
+    "end_ip": "31.25.225.200",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.202",
+    "end_ip": "31.25.225.202",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.207",
+    "end_ip": "31.25.225.207",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.229",
+    "end_ip": "31.25.225.229",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.235",
+    "end_ip": "31.25.225.237",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.225.239",
+    "end_ip": "31.25.225.239",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.226.220",
+    "end_ip": "31.25.226.220",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.227.141",
+    "end_ip": "31.25.227.146",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.227.148",
+    "end_ip": "31.25.227.149",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.227.159",
+    "end_ip": "31.25.227.159",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.25.228.0",
+    "end_ip": "31.25.230.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.38.5.4",
+    "end_ip": "31.38.5.4",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.40.207.132",
+    "end_ip": "31.40.207.132",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.40.207.205",
+    "end_ip": "31.40.207.205",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.40.207.218",
+    "end_ip": "31.40.207.218",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.153.0.0",
+    "end_ip": "31.153.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.199.146.156",
+    "end_ip": "31.199.146.156",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.97.8",
+    "end_ip": "31.209.97.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.97.32",
+    "end_ip": "31.209.97.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.97.80",
+    "end_ip": "31.209.97.83",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.97.88",
+    "end_ip": "31.209.97.239",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.97.248",
+    "end_ip": "31.209.98.47",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.98.56",
+    "end_ip": "31.209.98.59",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.98.64",
+    "end_ip": "31.209.98.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.99.128",
+    "end_ip": "31.209.100.41",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.100.44",
+    "end_ip": "31.209.100.47",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.100.58",
+    "end_ip": "31.209.100.111",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.100.116",
+    "end_ip": "31.209.100.119",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.100.128",
+    "end_ip": "31.209.100.159",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.100.168",
+    "end_ip": "31.209.103.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.103.66",
+    "end_ip": "31.209.103.67",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.103.72",
+    "end_ip": "31.209.103.79",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.103.96",
+    "end_ip": "31.209.109.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.209.110.128",
+    "end_ip": "31.209.111.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "31.216.64.0",
+    "end_ip": "31.216.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.1.188.176",
+    "end_ip": "37.1.188.183",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.9.176.0",
+    "end_ip": "37.9.176.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.9.178.0",
+    "end_ip": "37.9.181.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.9.183.0",
+    "end_ip": "37.9.183.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.48.0",
+    "end_ip": "37.72.48.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.49.128",
+    "end_ip": "37.72.49.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.51.0",
+    "end_ip": "37.72.51.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.51.32",
+    "end_ip": "37.72.51.175",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.51.192",
+    "end_ip": "37.72.51.239",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.51.248",
+    "end_ip": "37.72.51.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.52.32",
+    "end_ip": "37.72.52.119",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.53.128",
+    "end_ip": "37.72.53.159",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.53.192",
+    "end_ip": "37.72.53.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.55.0",
+    "end_ip": "37.72.55.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.56.128",
+    "end_ip": "37.72.56.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.72.57.128",
+    "end_ip": "37.72.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.149.0.0",
+    "end_ip": "37.149.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.218.192.0",
+    "end_ip": "37.218.195.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.218.197.0",
+    "end_ip": "37.218.197.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.218.200.0",
+    "end_ip": "37.218.207.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.235.72.128",
+    "end_ip": "37.235.72.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.235.76.0",
+    "end_ip": "37.235.76.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.235.77.0",
+    "end_ip": "37.235.77.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.235.78.0",
+    "end_ip": "37.235.78.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "37.235.79.0",
+    "end_ip": "37.235.79.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "41.137.49.102",
+    "end_ip": "41.137.49.102",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.13.26.0",
+    "end_ip": "45.13.26.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.13.221.0",
+    "end_ip": "45.13.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.67.237.0",
+    "end_ip": "45.67.239.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.89.23.0",
+    "end_ip": "45.89.23.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.130.120.0",
+    "end_ip": "45.130.120.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.132.132.0",
+    "end_ip": "45.132.135.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.133.132.0",
+    "end_ip": "45.133.132.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.133.134.0",
+    "end_ip": "45.133.135.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.139.132.0",
+    "end_ip": "45.139.135.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "45.156.136.0",
+    "end_ip": "45.156.139.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.16.136.0",
+    "end_ip": "46.16.138.234",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.16.138.239",
+    "end_ip": "46.16.139.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.16.140.57",
+    "end_ip": "46.16.143.52",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.16.143.54",
+    "end_ip": "46.16.143.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.18.155.0",
+    "end_ip": "46.18.155.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.18.158.0",
+    "end_ip": "46.18.158.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.21.48.0",
+    "end_ip": "46.21.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.28.176.0",
+    "end_ip": "46.28.183.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.176.64",
+    "end_ip": "46.30.176.81",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.176.83",
+    "end_ip": "46.30.177.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.179.0",
+    "end_ip": "46.30.181.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.182.128",
+    "end_ip": "46.30.183.67",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.183.70",
+    "end_ip": "46.30.183.215",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.183.224",
+    "end_ip": "46.30.183.239",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.30.183.248",
+    "end_ip": "46.30.183.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.198.0.0",
+    "end_ip": "46.198.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.199.0.0",
+    "end_ip": "46.199.85.29",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.199.85.31",
+    "end_ip": "46.199.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.235.156.64",
+    "end_ip": "46.235.156.95",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.243.228.0",
+    "end_ip": "46.243.230.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.251.96.0",
+    "end_ip": "46.251.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.255.120.82",
+    "end_ip": "46.255.120.84",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.255.120.88",
+    "end_ip": "46.255.120.89",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.255.121.0",
+    "end_ip": "46.255.123.52",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "46.255.126.0",
+    "end_ip": "46.255.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "57.79.196.0",
+    "end_ip": "57.79.197.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "59.83.137.49",
+    "end_ip": "59.83.137.49",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "59.83.137.202",
+    "end_ip": "59.83.137.202",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "62.1.128.0",
+    "end_ip": "62.1.128.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "62.3.32.0",
+    "end_ip": "62.3.32.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "62.12.64.0",
+    "end_ip": "62.12.95.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "62.152.0.0",
+    "end_ip": "62.152.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "62.228.0.0",
+    "end_ip": "62.228.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "64.14.56.0",
+    "end_ip": "64.14.56.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "64.34.43.64",
+    "end_ip": "64.34.43.95",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "64.49.193.48",
+    "end_ip": "64.49.193.55",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "64.59.208.0",
+    "end_ip": "64.59.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "65.18.208.0",
+    "end_ip": "65.18.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "66.205.64.0",
+    "end_ip": "66.205.95.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "66.216.105.112",
+    "end_ip": "66.216.105.119",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "66.216.112.144",
+    "end_ip": "66.216.112.151",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "67.55.81.32",
+    "end_ip": "67.55.81.39",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "67.55.126.168",
+    "end_ip": "67.55.126.175",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "69.6.0.0",
+    "end_ip": "69.6.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "69.94.112.0",
+    "end_ip": "69.94.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.71.116.172",
+    "end_ip": "77.71.116.172",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.71.117.187",
+    "end_ip": "77.71.117.187",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.71.124.15",
+    "end_ip": "77.71.124.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.71.127.95",
+    "end_ip": "77.71.127.95",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.73.119.0",
+    "end_ip": "77.73.119.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.75.199.0",
+    "end_ip": "77.75.199.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.77.177.32",
+    "end_ip": "77.77.177.39",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.77.177.64",
+    "end_ip": "77.77.177.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.83.248.0",
+    "end_ip": "77.83.251.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.91.54.160",
+    "end_ip": "77.91.54.160",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "77.92.0.0",
+    "end_ip": "77.92.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.40.141.0",
+    "end_ip": "78.40.141.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.0.0",
+    "end_ip": "78.135.8.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.9.128",
+    "end_ip": "78.135.36.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.36.32",
+    "end_ip": "78.135.36.90",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.36.92",
+    "end_ip": "78.135.37.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.38.128",
+    "end_ip": "78.135.45.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.47.0",
+    "end_ip": "78.135.53.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.54.0",
+    "end_ip": "78.135.56.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.135.57.128",
+    "end_ip": "78.135.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.138.44.0",
+    "end_ip": "78.138.44.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.158.128.0",
+    "end_ip": "78.158.140.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.158.142.0",
+    "end_ip": "78.158.154.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.158.155.94",
+    "end_ip": "78.158.155.94",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "78.158.155.98",
+    "end_ip": "78.158.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "79.162.248.2",
+    "end_ip": "79.162.248.2",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.85.20.0",
+    "end_ip": "80.85.20.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.85.25.0",
+    "end_ip": "80.85.25.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.85.31.0",
+    "end_ip": "80.85.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.89.240.0",
+    "end_ip": "80.89.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.92.63.0",
+    "end_ip": "80.92.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.94.83.107",
+    "end_ip": "80.94.83.109",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.191.184.205",
+    "end_ip": "80.191.184.205",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.191.184.214",
+    "end_ip": "80.191.184.214",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.240.106.0",
+    "end_ip": "80.240.106.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.244.16.0",
+    "end_ip": "80.244.18.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "80.244.19.128",
+    "end_ip": "80.244.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "81.4.128.0",
+    "end_ip": "81.4.191.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "81.21.32.0",
+    "end_ip": "81.21.46.4",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "81.21.46.6",
+    "end_ip": "81.21.46.6",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "81.21.46.8",
+    "end_ip": "81.21.46.160",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "81.21.46.162",
+    "end_ip": "81.21.47.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.77.120.210",
+    "end_ip": "82.77.120.210",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.79.9.13",
+    "end_ip": "82.79.9.13",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.102.32.0",
+    "end_ip": "82.102.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.113.16.86",
+    "end_ip": "82.113.16.86",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.113.16.237",
+    "end_ip": "82.113.16.237",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.113.16.243",
+    "end_ip": "82.113.16.243",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.114.32.0",
+    "end_ip": "82.114.43.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.114.48.0",
+    "end_ip": "82.114.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.116.192.0",
+    "end_ip": "82.116.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "82.211.24.6",
+    "end_ip": "82.211.24.6",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "83.19.237.142",
+    "end_ip": "83.19.237.142",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "83.168.0.0",
+    "end_ip": "83.168.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "83.224.161.29",
+    "end_ip": "83.224.161.29",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "84.200.102.220",
+    "end_ip": "84.200.102.220",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.95.233.0",
+    "end_ip": "85.95.233.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.95.235.0",
+    "end_ip": "85.95.235.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.95.246.0",
+    "end_ip": "85.95.247.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.105.136.0",
+    "end_ip": "85.105.136.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.132.224.0",
+    "end_ip": "85.132.249.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.132.251.0",
+    "end_ip": "85.132.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.185.198.137",
+    "end_ip": "85.185.198.137",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.190.230.0",
+    "end_ip": "85.190.230.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "85.239.40.0",
+    "end_ip": "85.239.41.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "87.121.126.0",
+    "end_ip": "87.121.126.250",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "87.228.128.0",
+    "end_ip": "87.228.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "87.239.184.240",
+    "end_ip": "87.239.184.247",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "88.218.232.0",
+    "end_ip": "88.218.235.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "89.149.154.112",
+    "end_ip": "89.149.154.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "89.223.74.0",
+    "end_ip": "89.223.74.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.84.55.12",
+    "end_ip": "91.84.55.12",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.103.139.0",
+    "end_ip": "91.103.139.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.106.209.181",
+    "end_ip": "91.106.209.181",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.106.210.0",
+    "end_ip": "91.106.211.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.106.213.0",
+    "end_ip": "91.106.214.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.109.208.0",
+    "end_ip": "91.109.208.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.109.211.0",
+    "end_ip": "91.109.215.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.148.135.0",
+    "end_ip": "91.148.135.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.184.192.0",
+    "end_ip": "91.184.192.31",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.184.192.47",
+    "end_ip": "91.184.192.97",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.184.192.99",
+    "end_ip": "91.184.192.132",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.184.192.135",
+    "end_ip": "91.184.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.188.249.0",
+    "end_ip": "91.188.250.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.197.44.0",
+    "end_ip": "91.197.45.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.199.41.0",
+    "end_ip": "91.199.41.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.212.145.0",
+    "end_ip": "91.212.145.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.213.138.0",
+    "end_ip": "91.213.138.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.217.246.0",
+    "end_ip": "91.217.246.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.223.164.0",
+    "end_ip": "91.223.164.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.223.208.0",
+    "end_ip": "91.223.208.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.224.78.0",
+    "end_ip": "91.224.79.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.224.86.0",
+    "end_ip": "91.224.87.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.225.125.0",
+    "end_ip": "91.225.125.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.245.222.0",
+    "end_ip": "91.245.222.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "91.247.178.0",
+    "end_ip": "91.247.178.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.119.160.0",
+    "end_ip": "92.119.160.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.241.165.0",
+    "end_ip": "92.241.165.7",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.61.46",
+    "end_ip": "92.249.61.46",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.61.97",
+    "end_ip": "92.249.61.97",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.61.117",
+    "end_ip": "92.249.61.117",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.61.148",
+    "end_ip": "92.249.61.148",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.61.164",
+    "end_ip": "92.249.61.164",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.61.201",
+    "end_ip": "92.249.61.201",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "92.249.63.171",
+    "end_ip": "92.249.63.171",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "93.109.0.0",
+    "end_ip": "93.109.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.46.196.0",
+    "end_ip": "94.46.203.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.46.208.0",
+    "end_ip": "94.46.215.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.46.224.0",
+    "end_ip": "94.46.239.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.125.144.0",
+    "end_ip": "94.125.145.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.125.147.0",
+    "end_ip": "94.125.148.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.125.149.0",
+    "end_ip": "94.125.151.191",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.125.151.208",
+    "end_ip": "94.125.151.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "94.140.14.0",
+    "end_ip": "94.140.15.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "95.0.123.16",
+    "end_ip": "95.0.123.31",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "95.0.123.224",
+    "end_ip": "95.0.123.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "95.169.204.0",
+    "end_ip": "95.169.205.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "98.124.166.64",
+    "end_ip": "98.124.166.79",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "98.158.110.63",
+    "end_ip": "98.158.110.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "103.35.178.0",
+    "end_ip": "103.35.179.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.9.69",
+    "end_ip": "104.28.9.71",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.60.46",
+    "end_ip": "104.28.60.47",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.80.50",
+    "end_ip": "104.28.80.51",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.106.39",
+    "end_ip": "104.28.106.40",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.130.21",
+    "end_ip": "104.28.130.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.131.24",
+    "end_ip": "104.28.131.25",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.146.226",
+    "end_ip": "104.28.146.228",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.154.226",
+    "end_ip": "104.28.154.228",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.202.100",
+    "end_ip": "104.28.202.104",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "104.28.234.100",
+    "end_ip": "104.28.234.104",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "107.165.8.0",
+    "end_ip": "107.165.8.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "107.165.18.0",
+    "end_ip": "107.165.18.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "107.165.22.0",
+    "end_ip": "107.165.22.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "107.165.30.0",
+    "end_ip": "107.165.30.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "108.163.170.40",
+    "end_ip": "108.163.170.47",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "109.105.224.0",
+    "end_ip": "109.105.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "109.110.224.0",
+    "end_ip": "109.110.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "109.186.208.0",
+    "end_ip": "109.186.208.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "109.235.206.0",
+    "end_ip": "109.235.206.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "116.199.224.0",
+    "end_ip": "116.199.230.0",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "116.199.230.2",
+    "end_ip": "116.199.239.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "128.0.42.0",
+    "end_ip": "128.0.43.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "128.0.107.0",
+    "end_ip": "128.0.111.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "128.0.193.0",
+    "end_ip": "128.0.195.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "128.0.200.0",
+    "end_ip": "128.0.235.152",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "128.0.235.154",
+    "end_ip": "128.0.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "130.250.197.0",
+    "end_ip": "130.250.197.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "134.255.210.0",
+    "end_ip": "134.255.210.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "136.23.6.98",
+    "end_ip": "136.23.6.98",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "136.23.20.10",
+    "end_ip": "136.23.20.10",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "139.138.192.0",
+    "end_ip": "139.138.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "140.248.0.4",
+    "end_ip": "140.248.0.7",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "140.248.4.20",
+    "end_ip": "140.248.4.23",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "140.248.34.242",
+    "end_ip": "140.248.34.243",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "140.248.36.40",
+    "end_ip": "140.248.36.43",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "142.54.20.0",
+    "end_ip": "142.54.22.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "147.75.146.0",
+    "end_ip": "147.75.146.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "152.89.196.0",
+    "end_ip": "152.89.196.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "154.6.162.0",
+    "end_ip": "154.6.162.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "154.14.55.112",
+    "end_ip": "154.14.55.119",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "154.92.9.255",
+    "end_ip": "154.92.9.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "156.237.8.1",
+    "end_ip": "156.237.8.1",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "156.237.8.105",
+    "end_ip": "156.237.8.105",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "156.237.8.179",
+    "end_ip": "156.237.8.179",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "156.237.8.211",
+    "end_ip": "156.237.8.211",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "156.237.8.241",
+    "end_ip": "156.237.8.241",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.97.132.0",
+    "end_ip": "157.97.132.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.228.21",
+    "end_ip": "157.167.228.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.229.21",
+    "end_ip": "157.167.229.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.230.21",
+    "end_ip": "157.167.230.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.231.45",
+    "end_ip": "157.167.231.46",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.237.21",
+    "end_ip": "157.167.237.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.238.21",
+    "end_ip": "157.167.238.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.239.21",
+    "end_ip": "157.167.239.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "157.167.240.21",
+    "end_ip": "157.167.240.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "159.255.40.8",
+    "end_ip": "159.255.40.11",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "159.255.40.15",
+    "end_ip": "159.255.40.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "159.255.40.65",
+    "end_ip": "159.255.40.126",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "159.255.40.129",
+    "end_ip": "159.255.40.190",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "159.255.40.192",
+    "end_ip": "159.255.40.254",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "159.255.41.0",
+    "end_ip": "159.255.41.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "162.211.98.44",
+    "end_ip": "162.211.98.46",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "162.211.98.52",
+    "end_ip": "162.211.98.52",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "162.211.98.90",
+    "end_ip": "162.211.98.128",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "162.211.98.228",
+    "end_ip": "162.211.98.228",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "162.211.99.72",
+    "end_ip": "162.211.99.72",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "162.211.99.76",
+    "end_ip": "162.211.99.76",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.166.159",
+    "end_ip": "163.116.166.159",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.166.167",
+    "end_ip": "163.116.166.167",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.169.89",
+    "end_ip": "163.116.169.89",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.169.93",
+    "end_ip": "163.116.169.93",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.172.161",
+    "end_ip": "163.116.172.161",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.172.175",
+    "end_ip": "163.116.172.175",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.174.116",
+    "end_ip": "163.116.174.116",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.179.98",
+    "end_ip": "163.116.179.98",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "163.116.179.105",
+    "end_ip": "163.116.179.105",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "164.138.96.0",
+    "end_ip": "164.138.98.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "164.215.0.0",
+    "end_ip": "164.215.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "165.220.148.176",
+    "end_ip": "165.220.148.183",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "165.220.148.216",
+    "end_ip": "165.220.148.223",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "165.220.149.136",
+    "end_ip": "165.220.149.143",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "165.220.233.72",
+    "end_ip": "165.220.233.79",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "165.220.233.160",
+    "end_ip": "165.220.233.167",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "168.151.142.0",
+    "end_ip": "168.151.142.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "172.68.45.0",
+    "end_ip": "172.68.45.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "172.68.130.0",
+    "end_ip": "172.68.130.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "172.68.171.0",
+    "end_ip": "172.68.171.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "172.225.26.32",
+    "end_ip": "172.225.26.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "172.225.94.0",
+    "end_ip": "172.225.94.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "172.225.160.96",
+    "end_ip": "172.225.160.111",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "173.182.105.124",
+    "end_ip": "173.182.105.124",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "173.239.48.80",
+    "end_ip": "173.239.48.87",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "173.239.49.112",
+    "end_ip": "173.239.49.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "173.239.50.120",
+    "end_ip": "173.239.50.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.56.168.0",
+    "end_ip": "176.56.168.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.56.170.0",
+    "end_ip": "176.56.171.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.92.224.0",
+    "end_ip": "176.92.224.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.103.128.0",
+    "end_ip": "176.103.129.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.103.131.0",
+    "end_ip": "176.103.131.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.103.133.0",
+    "end_ip": "176.103.133.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.103.135.0",
+    "end_ip": "176.103.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.111.175.0",
+    "end_ip": "176.111.175.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.124.191.0",
+    "end_ip": "176.124.191.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "176.227.224.0",
+    "end_ip": "176.227.239.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "178.175.182.0",
+    "end_ip": "178.175.183.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "184.107.76.200",
+    "end_ip": "184.107.76.207",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "184.107.91.32",
+    "end_ip": "184.107.91.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "184.107.175.208",
+    "end_ip": "184.107.175.215",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "184.107.181.96",
+    "end_ip": "184.107.181.103",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.1.207.0",
+    "end_ip": "185.1.207.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.2.96.0",
+    "end_ip": "185.2.99.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.5.41.0",
+    "end_ip": "185.5.41.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.5.43.0",
+    "end_ip": "185.5.43.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.7.156.0",
+    "end_ip": "185.7.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.12.215.0",
+    "end_ip": "185.12.215.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.18.185.0",
+    "end_ip": "185.18.186.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.24.81.0",
+    "end_ip": "185.24.83.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.37.184.64",
+    "end_ip": "185.37.184.81",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.37.184.88",
+    "end_ip": "185.37.184.95",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.37.184.128",
+    "end_ip": "185.37.184.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.37.185.40",
+    "end_ip": "185.37.185.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.41.208.0",
+    "end_ip": "185.41.211.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.42.32.0",
+    "end_ip": "185.42.35.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.43.228.0",
+    "end_ip": "185.43.228.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.43.228.128",
+    "end_ip": "185.43.229.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.43.229.112",
+    "end_ip": "185.43.229.115",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.43.229.118",
+    "end_ip": "185.43.229.123",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.51.24.0",
+    "end_ip": "185.51.27.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.52.88.0",
+    "end_ip": "185.52.91.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.60.237.0",
+    "end_ip": "185.60.239.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.61.240.0",
+    "end_ip": "185.61.243.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.64.80.0",
+    "end_ip": "185.64.80.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.66.162.0",
+    "end_ip": "185.66.163.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.68.129.0",
+    "end_ip": "185.68.131.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.76.48.0",
+    "end_ip": "185.76.49.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.78.128.0",
+    "end_ip": "185.78.129.102",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.78.129.104",
+    "end_ip": "185.78.131.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.80.126.0",
+    "end_ip": "185.80.126.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.81.32.0",
+    "end_ip": "185.81.35.169",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.81.35.172",
+    "end_ip": "185.81.35.213",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.81.35.216",
+    "end_ip": "185.81.35.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.97.163.0",
+    "end_ip": "185.97.163.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.98.107.0",
+    "end_ip": "185.98.107.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.99.26.240",
+    "end_ip": "185.99.26.243",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.102.36.0",
+    "end_ip": "185.102.39.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.105.172.0",
+    "end_ip": "185.105.175.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.106.100.0",
+    "end_ip": "185.106.103.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.106.204.0",
+    "end_ip": "185.106.207.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.113.28.0",
+    "end_ip": "185.113.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.132.0",
+    "end_ip": "185.117.133.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.16",
+    "end_ip": "185.117.134.19",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.21",
+    "end_ip": "185.117.134.21",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.24",
+    "end_ip": "185.117.134.25",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.65",
+    "end_ip": "185.117.134.69",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.119",
+    "end_ip": "185.117.134.120",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.128",
+    "end_ip": "185.117.134.130",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.132",
+    "end_ip": "185.117.134.133",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.138",
+    "end_ip": "185.117.134.139",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.134.142",
+    "end_ip": "185.117.134.142",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.117.135.0",
+    "end_ip": "185.117.135.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.118.88.0",
+    "end_ip": "185.118.89.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.118.91.0",
+    "end_ip": "185.118.91.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.121.20.0",
+    "end_ip": "185.121.20.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.121.22.0",
+    "end_ip": "185.121.22.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.124.136.0",
+    "end_ip": "185.124.139.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.126.120.0",
+    "end_ip": "185.126.123.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.130.48.0",
+    "end_ip": "185.130.48.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.134.116.0",
+    "end_ip": "185.134.119.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.138.213.0",
+    "end_ip": "185.138.213.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.141.194.0",
+    "end_ip": "185.141.194.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.150.128.0",
+    "end_ip": "185.150.128.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.160.204.0",
+    "end_ip": "185.160.204.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.162.16.0",
+    "end_ip": "185.162.19.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.166.64.0",
+    "end_ip": "185.166.67.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.166.116.0",
+    "end_ip": "185.166.119.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.170.167.0",
+    "end_ip": "185.170.167.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.170.232.0",
+    "end_ip": "185.170.235.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.171.92.0",
+    "end_ip": "185.171.94.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.173.188.32",
+    "end_ip": "185.173.188.47",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.173.188.64",
+    "end_ip": "185.173.189.31",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.173.189.96",
+    "end_ip": "185.173.189.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.173.226.0",
+    "end_ip": "185.173.226.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.174.157.7",
+    "end_ip": "185.174.157.30",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.175.40.0",
+    "end_ip": "185.175.43.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.177.88.0",
+    "end_ip": "185.177.91.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.184.218.0",
+    "end_ip": "185.184.218.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.187.60.0",
+    "end_ip": "185.187.60.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.191.206.0",
+    "end_ip": "185.191.206.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.193.28.0",
+    "end_ip": "185.193.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.193.148.0",
+    "end_ip": "185.193.150.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.198.106.0",
+    "end_ip": "185.198.107.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.199.15.0",
+    "end_ip": "185.199.15.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.200.196.0",
+    "end_ip": "185.200.198.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.204.101.0",
+    "end_ip": "185.204.101.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.205.184.0",
+    "end_ip": "185.205.187.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.207.160.0",
+    "end_ip": "185.207.163.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.207.237.0",
+    "end_ip": "185.207.237.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.208.108.0",
+    "end_ip": "185.208.111.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.216.4.0",
+    "end_ip": "185.216.7.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.230.112.0",
+    "end_ip": "185.230.115.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.235.44.0",
+    "end_ip": "185.235.44.195",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.235.44.198",
+    "end_ip": "185.235.44.223",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.235.46.0",
+    "end_ip": "185.235.46.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.235.46.192",
+    "end_ip": "185.235.47.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.235.252.0",
+    "end_ip": "185.235.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.237.228.0",
+    "end_ip": "185.237.229.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.237.230.0",
+    "end_ip": "185.237.231.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.240.140.0",
+    "end_ip": "185.240.140.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.241.214.225",
+    "end_ip": "185.241.214.225",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.249.152.0",
+    "end_ip": "185.249.155.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "185.253.214.10",
+    "end_ip": "185.253.214.10",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "188.72.255.22",
+    "end_ip": "188.72.255.23",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "188.164.94.0",
+    "end_ip": "188.164.94.31",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "188.209.131.181",
+    "end_ip": "188.209.131.181",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "188.212.251.0",
+    "end_ip": "188.212.251.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "188.215.32.0",
+    "end_ip": "188.215.32.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "188.247.84.241",
+    "end_ip": "188.247.84.241",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.19.204.0",
+    "end_ip": "193.19.204.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.22.30.0",
+    "end_ip": "193.22.30.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.37.235.0",
+    "end_ip": "193.37.235.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.43.0.64",
+    "end_ip": "193.43.0.95",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.58.0.0",
+    "end_ip": "193.58.0.47",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.58.0.64",
+    "end_ip": "193.58.0.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.58.116.0",
+    "end_ip": "193.58.116.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.105.129.0",
+    "end_ip": "193.105.129.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.105.224.0",
+    "end_ip": "193.105.224.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.140.173.32",
+    "end_ip": "193.140.173.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.140.173.128",
+    "end_ip": "193.140.174.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.161.24.0",
+    "end_ip": "193.161.25.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.161.28.0",
+    "end_ip": "193.161.29.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.162.107.0",
+    "end_ip": "193.162.107.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.188.134.168",
+    "end_ip": "193.188.134.199",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.192.12.128",
+    "end_ip": "193.192.12.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.15.0",
+    "end_ip": "193.201.15.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.128.0",
+    "end_ip": "193.201.131.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.147.160",
+    "end_ip": "193.201.147.191",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.148.0",
+    "end_ip": "193.201.148.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.150.64",
+    "end_ip": "193.201.150.191",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.151.0",
+    "end_ip": "193.201.151.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.201.157.0",
+    "end_ip": "193.201.157.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.218.205.64",
+    "end_ip": "193.218.205.223",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.218.207.80",
+    "end_ip": "193.218.207.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.221.200.0",
+    "end_ip": "193.221.203.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "193.242.214.0",
+    "end_ip": "193.242.214.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.0.146.0",
+    "end_ip": "194.0.146.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.5.36.0",
+    "end_ip": "194.5.37.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.5.39.0",
+    "end_ip": "194.5.39.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.9.20.0",
+    "end_ip": "194.9.21.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.26.223.0",
+    "end_ip": "194.26.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.27.73.16",
+    "end_ip": "194.27.73.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.27.73.128",
+    "end_ip": "194.27.73.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.27.76.0",
+    "end_ip": "194.27.76.15",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.27.76.96",
+    "end_ip": "194.27.76.111",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.27.76.128",
+    "end_ip": "194.27.79.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.30.128.0",
+    "end_ip": "194.30.134.243",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.30.134.245",
+    "end_ip": "194.30.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.31.10.0",
+    "end_ip": "194.31.10.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.42.0.0",
+    "end_ip": "194.42.39.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.42.55.32",
+    "end_ip": "194.42.55.159",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.42.128.0",
+    "end_ip": "194.42.138.0",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.42.138.2",
+    "end_ip": "194.42.148.13",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.42.148.15",
+    "end_ip": "194.42.148.21",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.42.148.23",
+    "end_ip": "194.42.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.64.144.0",
+    "end_ip": "194.64.147.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.117.52.0",
+    "end_ip": "194.117.52.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.117.110.120",
+    "end_ip": "194.117.110.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.126.40.0",
+    "end_ip": "194.126.42.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.147.216.0",
+    "end_ip": "194.147.216.39",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.147.216.128",
+    "end_ip": "194.147.216.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.153.156.64",
+    "end_ip": "194.153.156.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.153.157.192",
+    "end_ip": "194.153.157.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.154.128.0",
+    "end_ip": "194.154.141.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.154.143.0",
+    "end_ip": "194.154.151.0",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.154.151.2",
+    "end_ip": "194.154.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.233.16.0",
+    "end_ip": "194.233.19.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.233.24.0",
+    "end_ip": "194.233.27.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "194.233.60.0",
+    "end_ip": "194.233.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.14.128.0",
+    "end_ip": "195.14.143.132",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.14.143.134",
+    "end_ip": "195.14.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.47.194.0",
+    "end_ip": "195.47.194.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.81.192",
+    "end_ip": "195.60.82.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.83.64",
+    "end_ip": "195.60.83.95",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.83.160",
+    "end_ip": "195.60.83.191",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.84.0",
+    "end_ip": "195.60.84.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.87.128",
+    "end_ip": "195.60.87.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.93.0",
+    "end_ip": "195.60.93.63",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.93.192",
+    "end_ip": "195.60.93.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.60.95.0",
+    "end_ip": "195.60.95.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.88.177.0",
+    "end_ip": "195.88.177.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.95.138.0",
+    "end_ip": "195.95.138.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.137.173.0",
+    "end_ip": "195.137.173.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.170.176.0",
+    "end_ip": "195.170.176.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.178.4.0",
+    "end_ip": "195.178.5.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.179.96.0",
+    "end_ip": "195.179.111.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.206.250.0",
+    "end_ip": "195.206.251.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.225.112.0",
+    "end_ip": "195.225.115.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "195.226.194.0",
+    "end_ip": "195.226.194.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "196.48.73.0",
+    "end_ip": "196.48.73.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "196.56.73.0",
+    "end_ip": "196.56.73.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "196.197.73.0",
+    "end_ip": "196.197.73.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "196.198.73.0",
+    "end_ip": "196.198.73.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "196.199.73.0",
+    "end_ip": "196.199.73.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "197.44.221.190",
+    "end_ip": "197.44.221.190",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "197.44.231.204",
+    "end_ip": "197.44.231.204",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "199.217.99.16",
+    "end_ip": "199.217.99.31",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.13.32.255",
+    "end_ip": "203.13.32.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.17.126.255",
+    "end_ip": "203.17.126.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.22.223.255",
+    "end_ip": "203.22.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.23.103.255",
+    "end_ip": "203.23.104.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.23.106.255",
+    "end_ip": "203.23.106.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.24.109.255",
+    "end_ip": "203.24.109.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.28.8.0",
+    "end_ip": "203.28.9.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.29.55.255",
+    "end_ip": "203.29.55.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.202.228.0",
+    "end_ip": "203.202.228.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.202.228.240",
+    "end_ip": "203.202.228.251",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "203.202.229.0",
+    "end_ip": "203.202.229.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "205.214.80.120",
+    "end_ip": "205.214.80.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "207.244.210.188",
+    "end_ip": "207.244.210.188",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "209.206.4.0",
+    "end_ip": "209.206.4.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "211.149.83.22",
+    "end_ip": "211.149.83.22",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.31.96.0",
+    "end_ip": "212.31.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.50.62.169",
+    "end_ip": "212.50.62.169",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.50.96.0",
+    "end_ip": "212.50.127.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.87.197.124",
+    "end_ip": "212.87.197.124",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.87.198.103",
+    "end_ip": "212.87.198.103",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.87.198.130",
+    "end_ip": "212.87.198.130",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.87.198.133",
+    "end_ip": "212.87.198.133",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.87.198.240",
+    "end_ip": "212.87.198.240",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.107.4.29",
+    "end_ip": "212.107.4.29",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.107.4.49",
+    "end_ip": "212.107.4.49",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.107.4.109",
+    "end_ip": "212.107.4.109",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.107.6.191",
+    "end_ip": "212.107.6.191",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.199.167.125",
+    "end_ip": "212.199.167.125",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "212.222.155.72",
+    "end_ip": "212.222.155.79",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.7.0.0",
+    "end_ip": "213.7.255.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.109.198.0",
+    "end_ip": "213.109.198.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.133.80.0",
+    "end_ip": "213.133.95.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.192.0",
+    "end_ip": "213.140.196.2",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.196.5",
+    "end_ip": "213.140.196.14",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.196.17",
+    "end_ip": "213.140.196.114",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.196.116",
+    "end_ip": "213.140.196.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.0",
+    "end_ip": "213.140.198.30",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.32",
+    "end_ip": "213.140.198.40",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.42",
+    "end_ip": "213.140.198.52",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.54",
+    "end_ip": "213.140.198.78",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.80",
+    "end_ip": "213.140.198.80",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.82",
+    "end_ip": "213.140.198.98",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.102",
+    "end_ip": "213.140.198.112",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.114",
+    "end_ip": "213.140.198.120",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.122",
+    "end_ip": "213.140.198.122",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.124",
+    "end_ip": "213.140.198.124",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.128",
+    "end_ip": "213.140.198.139",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.141",
+    "end_ip": "213.140.198.169",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.198.171",
+    "end_ip": "213.140.213.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.140.215.0",
+    "end_ip": "213.140.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.148.8.0",
+    "end_ip": "213.148.15.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.148.28.0",
+    "end_ip": "213.148.31.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.149.160.0",
+    "end_ip": "213.149.181.170",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.149.181.172",
+    "end_ip": "213.149.191.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.169.128.0",
+    "end_ip": "213.169.139.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.169.144.0",
+    "end_ip": "213.169.150.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.169.152.0",
+    "end_ip": "213.169.158.10",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.169.158.12",
+    "end_ip": "213.169.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.182.200.0",
+    "end_ip": "213.182.200.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.207.128.0",
+    "end_ip": "213.207.159.147",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.207.159.149",
+    "end_ip": "213.207.187.205",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.207.187.207",
+    "end_ip": "213.207.191.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "213.232.252.0",
+    "end_ip": "213.232.252.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "216.74.133.152",
+    "end_ip": "216.74.133.159",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "216.128.5.128",
+    "end_ip": "216.128.6.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "216.128.24.0",
+    "end_ip": "216.128.24.127",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "216.241.128.0",
+    "end_ip": "216.241.159.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.16.224.0",
+    "end_ip": "217.16.239.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.26.220.0",
+    "end_ip": "217.26.220.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.27.32.0",
+    "end_ip": "217.27.39.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.27.44.0",
+    "end_ip": "217.27.45.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.27.47.0",
+    "end_ip": "217.27.52.208",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.27.52.210",
+    "end_ip": "217.27.63.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.72.12.0",
+    "end_ip": "217.72.15.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.168.171.96",
+    "end_ip": "217.168.171.111",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.175.208.0",
+    "end_ip": "217.175.223.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  },
+  {
+    "start_ip": "217.197.104.0",
+    "end_ip": "217.197.104.255",
+    "country": "CY",
+    "country_name": "Cyprus",
+    "continent": "EU",
+    "continent_name": "Europe"
+  }
+]
